@@ -5,6 +5,10 @@
  */
 package proyecto1;
 
+/*
+    prueba para ejercicio
+*/
+
 /**
  *
  * @author redes
