@@ -7,7 +7,7 @@ package proyecto1;
 
 //cambio desde git
 /*
-    prueba para ejercicio
+    prueba para ejercicio con david 
 */
 
 /**
